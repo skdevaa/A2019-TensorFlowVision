@@ -1,0 +1,10 @@
+{
+  "name": "TensorFlowVision",
+  "label": "TensorFlowVision",
+  "description": "Provides actions for TensorFlow operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}

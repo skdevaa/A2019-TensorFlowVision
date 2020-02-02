@@ -1,0 +1,4 @@
+{
+  "label" : "TensorFlowVision",
+  "description" : "Provides actions for TensorFlow operations."
+}
